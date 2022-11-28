@@ -1,0 +1,38 @@
+0b7126e0c6e86d3ec295a72f5aa6e0bd
+::res://::1669602199
+icon.svg::CompressedTexture2D::4241039251032309671::1669602186::1669602195::1::::<><>::
+::res://assets/::1669602148
+::res://assets/backgrounds/::1669602255
+blue_desert.png::CompressedTexture2D::6770669663531380128::1668134837::1669602255::1::::<><>::
+blue_grass.png::CompressedTexture2D::3189609280960403949::1668134837::1669602255::1::::<><>::
+blue_land.png::CompressedTexture2D::8757702030357304028::1668134837::1669602255::1::::<><>::
+blue_shroom.png::CompressedTexture2D::4987941224641741634::1668134837::1669602255::1::::<><>::
+colored_desert.png::CompressedTexture2D::1550772621476260653::1668134837::1669602255::1::::<><>::
+colored_grass.png::CompressedTexture2D::5256077257255315620::1668134837::1669602255::1::::<><>::
+colored_land.png::CompressedTexture2D::3347957967574040453::1668134837::1669602255::1::::<><>::
+colored_shroom.png::CompressedTexture2D::4663423469142731572::1668134837::1669602255::1::::<><>::
+::res://assets/fonts/::1669602287
+Kenney Blocks.ttf::FontFile::2462851434904805571::1668134837::1669602310::1::::<><>::
+Kenney Future Narrow.ttf::FontFile::8888154006951122132::1668134837::1669602310::1::::<><>::
+Kenney Future.ttf::FontFile::8874507460371057044::1668134837::1669602310::1::::<><>::
+Kenney High Square.ttf::FontFile::1481426498631939998::1668134837::1669602310::1::::<><>::
+Kenney High.ttf::FontFile::3082779084387532803::1668134837::1669602310::1::::<><>::
+Kenney Mini Square.ttf::FontFile::7186824153805958436::1668134837::1669602310::1::::<><>::
+Kenney Mini.ttf::FontFile::610793391585490277::1668134837::1669602310::1::::<><>::
+Kenney Pixel Square.ttf::FontFile::4075675259063582332::1668134837::1669602310::1::::<><>::
+Kenney Pixel.ttf::FontFile::5622859361345331007::1668134837::1669602310::1::::<><>::
+Kenney Rocket Square.ttf::FontFile::2345722508390149309::1668134837::1669602310::1::::<><>::
+Kenney Rocket.ttf::FontFile::1669736983156727625::1668134837::1669602310::1::::<><>::
+::res://assets/icon/::1669602291
+xeno_platformer_icon.png::CompressedTexture2D::7936188239242729596::1668134837::1669602310::1::::<><>::
+::res://assets/particles/::1669602299
+brickBrown.png::CompressedTexture2D::7123936077435444720::1668134837::1669602310::1::::<><>::
+brickGrey.png::CompressedTexture2D::3395586513677548715::1668134837::1669602310::1::::<><>::
+fireball.png::CompressedTexture2D::9022228742765131039::1668134837::1669602310::1::::<><>::
+::res://assets/spritesheet/::1669602308
+spritesheet_enemies.png::CompressedTexture2D::3877203865721792711::1668134837::1669602311::1::::<><>::
+spritesheet_ground.png::CompressedTexture2D::4547626591651441369::1668134837::1669602311::1::::<><>::
+spritesheet_hud.png::CompressedTexture2D::7029589357003293729::1668134837::1669602311::1::::<><>::
+spritesheet_items.png::CompressedTexture2D::8831311174524240580::1668134837::1669602310::1::::<><>::
+spritesheet_players.png::CompressedTexture2D::7733943821460838188::1668134837::1669602311::1::::<><>::
+spritesheet_tiles.png::CompressedTexture2D::7094536380444065801::1668134837::1669602311::1::::<><>::
